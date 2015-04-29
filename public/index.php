@@ -16,7 +16,8 @@
 	<br>
 	<p><Img src="http://static.giantbomb.com/uploads/original/12/122040/1826688-dinowar_1.jpg"></p>
 		<br>
-	<p><img src="http://distilleryimage2.ak.instagram.com/36b66e7e492011e3962312f43f382231_8.jpg"></p>
+		<p>This is a picture of my dog Fry! He's pretty sweet.</p>
+	<p><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/10424621_515260315267315_1016508489_n.jpg"</p>
 </div>
 </body>
 </html>
