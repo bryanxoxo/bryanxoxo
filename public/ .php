@@ -17,7 +17,7 @@
 	<p><Img src="http://static.giantbomb.com/uploads/original/12/122040/1826688-dinowar_1.jpg"></p>
 		<br>
 		<p>This is a picture of my dog Fry! He's pretty sweet.</p>
-	<p><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/10424621_515260315267315_1016508489_n.jpg"</p>
+	<p><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/10424621_515260315267315_1016508489_n.jpg"></p>
 		<br>
 		<p>I like this band. They are called Red Fang</p>
 	<p><img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Red_Fang-Red_Fang.jpg"></p>
