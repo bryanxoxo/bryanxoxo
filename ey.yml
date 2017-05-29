@@ -29,3 +29,4 @@ environments:
   prod: {}
 defaults:
   migrate: false
+  branch: master
